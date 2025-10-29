@@ -1,3 +1,3 @@
-#my first repository
+# my first repository
 
-i have now a gitHub account
+now it's better
